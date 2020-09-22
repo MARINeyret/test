@@ -1,0 +1,15 @@
+{
+  "name": "techno_web",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha 'test/**/*.js"
+  },
+  "keywords": [
+    "ece",
+    "webtechno"
+  ],
+  "author": "marin_neyret",
+  "license": "ISC"
+}
